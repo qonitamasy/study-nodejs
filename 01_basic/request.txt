@@ -1,0 +1,1 @@
+{"data":{"nama":"Qonita","kelas":"10RPL"}}
